@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 究竟一乘寶性論
+#+DATE: 2015-08-30 20:58:08.856729
+#+PROPERTY: JUAN 0
